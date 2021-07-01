@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "coenraads.bracket-pair-colorizer-2",
+    "vincaslt.highlight-matching-tag",
+    "ecmel.vscode-html-css",
+    "kisstkondoros.vscode-gutter-preview",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "steoates.autoimport",
+    "formulahendry.auto-rename-tag",
+    "streetsidesoftware.code-spell-checker",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "eg2.vscode-npm-script",
+    "christian-kohler.npm-intellisense",
+    "msjsdiag.debugger-for-chrome"
+  ]
+}
